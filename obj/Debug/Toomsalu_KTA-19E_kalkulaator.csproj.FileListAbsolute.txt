@@ -1,0 +1,9 @@
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\bin\Debug\Toomsalu_KTA-19E_kalkulaator.exe.config
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\bin\Debug\Toomsalu_KTA-19E_kalkulaator.exe
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\bin\Debug\Toomsalu_KTA-19E_kalkulaator.pdb
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA-19E_kalkulaator.csprojAssemblyReference.cache
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA_19E_kalkulaator.Properties.Resources.resources
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA-19E_kalkulaator.csproj.GenerateResource.cache
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA-19E_kalkulaator.exe
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA-19E_kalkulaator.pdb
+C:\Users\Tõnn\Desktop\Toomsalu_KTA-19E_kalkulaator\obj\Debug\Toomsalu_KTA_19E_kalkulaator.TT_Form1.resources
